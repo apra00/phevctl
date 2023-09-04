@@ -13,7 +13,7 @@ Use the steps below, or have a look at [this repository](https://github.com/stea
 
 ```
 sudo apt-get install build-essential cmake git
-git clone https://github.com/papawattu/msg-core
+git clone https://github.com/apra00/msg-core
 cd msg-core
 mkdir build
 cd build
@@ -22,7 +22,7 @@ make
 sudo make install
 
 cd ../../
-git clone https://github.com/phev-remote/phevcore.git
+git clone https://github.com/apra00/phevcore.git
 cd phevcore
 mkdir build
 cd build
@@ -31,7 +31,7 @@ make
 sudo make install
 cd ../../
 
-git clone https://github.com/DaveGamble/cJSON.git
+git clone https://github.com/apra00/cJSON.git
 cd cJSON
 mkdir build
 cd build
