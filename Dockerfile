@@ -1,4 +1,4 @@
-FROM raspbian/bullseye
+FROM ubuntu/stretch
 ARG DEBIAN_FRONTEND=noninteractive
 RUN apt-get -y update && apt-get upgrade -y && apt-get -y install build-essential cmake git
 WORKDIR /src
