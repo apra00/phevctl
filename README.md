@@ -39,7 +39,7 @@ MIT License
 ## Building
 The quickest way to get started is using the existing docker image ...
 ```
-docker run papawattu/phevctl --help
+docker run apra00/phevctl --help
 ```
 Or if you'd prefer to build you own image. Or if you run it on OrangePi zero
 
@@ -82,7 +82,7 @@ Server: Docker Engine - Community
 ```
 Check out this repository by cloning
 ```
-git clone https://github.com/phev-remote/phevctl
+git clone https://github.com/apra00/phevctl
 ```
 Then CD into the directory and build the image.
 ```
