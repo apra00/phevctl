@@ -12,7 +12,7 @@ endif()
 
 set(TARGET_GROUP production CACHE STRING "Group to build")
 
-find_library(ARGP_LIB argp)
+#find_library(ARGP_LIB argp)
 find_library(PHEV_LIB phev)
 find_library(MSG_CORE_LIB msg_core)
 find_library(CJSON_LIB cjson)
