@@ -205,6 +205,6 @@ Switching air conditioning mode to 1 for 10 mins
 ```
 Have fun!!!
 
-## Using commands
+## Registers
 
 In the registers.csv there are all the registers the car sends and the corresponding meaning and example value.
