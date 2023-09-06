@@ -187,7 +187,7 @@ int phev_args_process_operands(char * arg, int arg_num, phev_args_opts_t * opts)
             break;
         }
         case CMD_GET_REG_VAL: {
-            if(strlen(arg) == 2 && isdigit(arg[0]) && isdigit(arg[1]) && arg_num == 1)
+            if(strlen(arg) == 3 && isdigit(arg[0]) && isdigit(arg[1]) && isdigit(arg[2]) && arg_num == 1)
             {
                 opts->reg_operand = atoi(arg);
             }
