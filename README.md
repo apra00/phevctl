@@ -133,7 +133,7 @@ Report bugs to jamie@wattu.com.
 ```
 ## Building manually
 
-Please see the [BUILD.md](https://github.com/phev-remote/phevctl/blob/master/BUILD.md).
+Please see the [BUILD.md](https://github.com/apra/phevctl/blob/master/BUILD.md).
 
 ## Usage
 
